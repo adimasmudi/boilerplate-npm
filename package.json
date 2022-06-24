@@ -13,5 +13,6 @@
 	},
 	"author" : "adimasmudi",
 	"description": "A project build by Masmudi and do something awesome wkwk",
-	"keywords": [ "descriptive", "related", "words" ,"freecodecamp"]
+	"keywords": [ "descriptive", "related", "words" ,"freecodecamp"],
+	"license": "MIT"
 }
