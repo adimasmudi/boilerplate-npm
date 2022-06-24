@@ -1,7 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.18.1",
+		"moment": "^2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -11,9 +12,14 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author" : "adimasmudi",
+	"author": "adimasmudi",
 	"description": "A project build by Masmudi and do something awesome wkwk",
-	"keywords": [ "descriptive", "related", "words" ,"freecodecamp"],
+	"keywords": [
+		"descriptive",
+		"related",
+		"words",
+		"freecodecamp"
+	],
 	"license": "MIT",
 	"version": "1.2.0"
 }
