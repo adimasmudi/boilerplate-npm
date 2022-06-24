@@ -14,5 +14,6 @@
 	"author" : "adimasmudi",
 	"description": "A project build by Masmudi and do something awesome wkwk",
 	"keywords": [ "descriptive", "related", "words" ,"freecodecamp"],
-	"license": "MIT"
+	"license": "MIT",
+	"version": "1.2.0"
 }
